@@ -30,8 +30,8 @@
     "pretty"
   ],
   "dependencies": {
-    "chalk": "^1.0.0",
-    "log-symbols": "^1.0.0",
+    "chalk": "git+https://github.com/sterpe/chalk.git",
+    "log-symbols": "git+https://github.com/sterpe/log-symbols.git",
     "plur": "^1.0.0",
     "string-length": "^1.0.0",
     "text-table": "^0.2.0"
